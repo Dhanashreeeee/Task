@@ -13,3 +13,10 @@ This machine learning model recommends products to users based on their past beh
 The dataset simulates user-product interactions (e.g., purchase history or ratings). [Provide dataset source or instructions to obtain it].  
 
 ## Project Structure  
+
+## How to Run the Model  
+
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/yourusername/product-recommendation-system.git
+   cd product-recommendation-system
